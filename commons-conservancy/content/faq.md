@@ -26,7 +26,7 @@ A project is an effort that in our opinion is almost by definition finite, and i
 ## Q: Why don't you handle money?
 <img alt="A picture with a large amount of coins" class="ill align-right" src="/img/coins.jpeg" style="width: 20%;">
 
-[The Commons Conservancy] is a zero-budget organisation by design. We have no money, and no interest in acquiring it as an organisation. We have no staff, no annual budget. Our <a class="reference external" href="/legal/foundingStatutes">statutes</a> actually forbid us to even open a bank account.  We think there is enough value for our organisation to add without also handling the monetary dimension of work happening within Programmes.
+[The Commons Conservancy] is a zero-budget organisation by design. We have no money, and no interest in acquiring it as an organisation. We have no staff, no annual budget. Our [statutes](/legal/foundingStatutes) actually forbid us to even open a bank account.  We think there is enough value for our organisation to add without also handling the monetary dimension of work happening within Programmes.
 
 The total absence of money throughout our operations greatly reduces cost, complexity and above all risk. Handling significant funds for projects is a specialist task that requires oversight and auditing, and there are organisations that are much better equipped than us to deal with that. The fact that we cannot have money, means that as an organisation we are not a very interesting target for lawsuits. There are additional factors (such as taxation) that come into play as soon as money starts flowing.
 
@@ -43,19 +43,19 @@ Every Programme within [The Commons Conservancy] is free to leave and set up its
 
 ## Q: How should we handle copyright attribution
 
-Handling copyright attribution is important. We have assembled a number of <a class="reference external" href="/faq/licenseinfo/">best practices on copyright attribution</a> which you should probably look at. These can be useful even if for efforts outside of The Commons Conservancy.
+Handling copyright attribution is important. We have assembled a number of [best practices on copyright attribution](/faq/licenseinfo/) which you should probably look at. These can be useful even if for efforts outside of The Commons Conservancy.
 
 ## Q: What does it cost to join [The Commons Conservancy]?
 
 There is no cost attached. We don't interact with money at all, so it would even be a problem to take your money. However, we do check the eligibility of your project to see if there is a good match between what we offer, what your project needs and the public interest.
 
 ## Q: But you are handling our donations?
-Actually, we are not doing that - not directly. And for a good reason. Handling of donations for Programmes of [The Commons Conservancy] happens through organisations far better equipped to do so. That keeps all financial risks outside. Currently we work with <a class="reference external" href="https://NLnet.nl">NLnet foundation</a>, a recognised public benefit organisation (ANBI). They have been providing funding projects for decades, and offer a professional financial environment.  Because they are a recognised public benefit organisation, this offers many advantages when it comes to tax and donations.[The Commons Conservancy] has an umbrella agreement (Memorandum of Understanding) with NLnet so that eligible projects can start receiving donations the minute they enter [The Commons Conservancy].
+Actually, we are not doing that - not directly. And for a good reason. Handling of donations for Programmes of [The Commons Conservancy] happens through organisations far better equipped to do so. That keeps all financial risks outside. Currently we work with [NLnet foundation](https://NLnet.nl), a recognised public benefit organisation (ANBI). They have been providing funding projects for decades, and offer a professional financial environment.  Because they are a recognised public benefit organisation, this offers many advantages when it comes to tax and donations.[The Commons Conservancy] has an umbrella agreement (Memorandum of Understanding) with NLnet so that eligible projects can start receiving donations the minute they enter [The Commons Conservancy].
 
 ## Q: Great work. How can I donate money to [The Commons Conservancy]?
 You cannot donate money to us in the literal sense of the word. [The Commons Conservancy] is statutorily not able to have a bank account. And we don't like begging.
 
-Actually, we do have some operational costs. If you want to support our work, we have a small support fund operated by <a class="reference external" href="https://NLnet.nl">NLnet foundation</a> you can donate money to (so we 'dogfood' the very procedure used by our Programmes). We don't expect you to, but if you appreciate our work and have some money to spare - we can put it to good work to make the life of our Programmes even easier.
+Actually, we do have some operational costs. If you want to support our work, we have a small support fund operated by [NLnet foundation](https://NLnet.nl) you can donate money to (so we 'dogfood' the very procedure used by our Programmes). We don't expect you to, but if you appreciate our work and have some money to spare - we can put it to good work to make the life of our Programmes even easier.
 
 ## Q: What do you use donations to your own support fund for?
 Our technical infrastructure we get for free, donated in kind by various parties. We do not have any paid staff, the Board of Directors does not receive any remuneration as well.
@@ -71,7 +71,7 @@ Developers are like piranha's when it comes to infrastructure. We can pretty muc
 Perhaps you should. We did. But maybe you can learn first, in a friendly environment where other people doing similar projects are. All our legal stuff is available for copying and reuse. If you spot any issues, let us know - a foundation is a living construct that is never 'done'.
 
 ## Q: Are you related to Conservation Commons?
-No. <a class="reference external" href="http://consortia.si.edu/signature-program/conservation-commons">Conservation Commons</a> promotes the conservation of populations, species and habitats through programs of biodiversity assessment, management and sustainability. So the work is kind of similar, but in a completely different realm. If you are a biologist, and ended up here: apologies. And thanks for the great work your community does. We can create bits as much as we want, but animal and plant species are unique.
+No. [Conservation Commons](http://consortia.si.edu/signature-program/conservation-commons) promotes the conservation of populations, species and habitats through programs of biodiversity assessment, management and sustainability. So the work is kind of similar, but in a completely different realm. If you are a biologist, and ended up here: apologies. And thanks for the great work your community does. We can create bits as much as we want, but animal and plant species are unique.
 
 ## Q: Are you affiliated with Software Freedom Conservancy?
-No, [The Commons Conservancy] is not in any way affiliated with <a class="reference external" href="https://sfconservancy.org/">Software Freedom Conservancy</a>. SFC is a 501(c)(3) not-for-profit organization incorporated in New York that "helps promote, improve, develop, and defend Free, Libre, and Open Source Software (FLOSS) projects". Great work, <a class="reference external" href="https://sfconservancy.org/">check them out</a>.
+No, [The Commons Conservancy] is not in any way affiliated with [Software Freedom Conservancy](https://sfconservancy.org/). SFC is a 501(c)(3) not-for-profit organization incorporated in New York that "helps promote, improve, develop, and defend Free, Libre, and Open Source Software (FLOSS) projects". Great work, [check them out](https://sfconservancy.org/).
