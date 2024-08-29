@@ -12,34 +12,22 @@ type = 'page'
 
  * the way Programmes and other bodies within [The Commons Conservancy] are governed, is <strong>authoritatively</strong> described by regulations as well. This creates a recursive mechanism that allows a lot of flexibility when needed, whilst the mechanism of making certain parts <a class="reference external" href="https://dracc.commonsconservancy.org/0000">immutable</a> adds the necessary rigidity.
 
-<li><p>the above provisions are themselves an <strong>immutable</strong> part of the <a class="reference external" href="/legal/foundingStatutes">statutes</a> of [The Commons Conservancy] and cannot ever be changed.</p></li>
-<li><p>(by design) the foundation <a class="reference external" href="/legal/foundingStatutes/#bestuur-taak-en-bevoegdheden">cannot hold money</a>, and is even
-statutorily <a class="reference external" href="/legal/foundingStatutes/#bestuur-taak-en-bevoegdheden">forbidden to create a bank account</a> (which means
-there is no position of chancellor in the <a class="reference external" href="/organisation">Board</a> of the
-foundation (there is no need for such a position).</p></li>
-<li><p>[The Commons Conservancy] can have so called '<a class="reference external" href="/legal/foundingStatutes/#aangeslotenen">affiliates</a>', the
-status and roles of which are determined by (again) regulations.
-This allows to formally anchor specific people roles within the
-foundation (such as an ombudsperson) and within its individual
-programmes, should such a thing be necessary.</p></li>
-<li><p>[The Commons Conservancy] cannot dissolve itself without first
-giving a <a class="reference external" href="/legal/foundingStatutes/#article-13">full year public notice</a>.</p></li>
-</ul>
-</blockquote>
+ * the above provisions are themselves an <strong>immutable</strong> part of the <a class="reference external" href="/legal/foundingStatutes">statutes</a> of [The Commons Conservancy] and cannot ever be changed.
+
+ * (by design) the foundation <a class="reference external" href="/legal/foundingStatutes/#bestuur-taak-en-bevoegdheden">cannot hold money</a>, and is even statutorily <a class="reference external" href="/legal/foundingStatutes/#bestuur-taak-en-bevoegdheden">forbidden to create a bank account</a> (which means there is no position of chancellor in the <a class="reference external" href="/organisation">Board</a> of the foundation (there is no need for such a position).
+
+ * [The Commons Conservancy] can have so called '<a class="reference external" href="/legal/foundingStatutes/#aangeslotenen">affiliates</a>', the status and roles of which are determined by (again) regulations. This allows to formally anchor specific people roles within the foundation (such as an ombudsperson) and within its individual programmes, should such a thing be necessary.
+
+ * [The Commons Conservancy] cannot dissolve itself without first
+giving a <a class="reference external" href="/legal/foundingStatutes/#article-13">full year public notice</a>.
 
 ## Other aspects
 The rest of the statutes of [The Commons Conservancy] is rather unspectacular. In summary:
 
-  * the foundation is governed by a <a class="reference external" href="/organisation">Board</a>, which can establish other
-bodies such as committees and councils</p></li>
-  * there are between three and seven board members</p></li>
-  * board members are appointed by the board</p></li>
-  * they serve a term of three years, and can be re-elected for a
-limited amount of times</p></li>
-  * votes within the board are made with a simple majority, apart from
-changes to the mutable part of the statutes which require unanimity.</p></li>
+  * the foundation is governed by a <a class="reference external" href="/organisation">Board</a>, which can establish other bodies such as committees and councils
+  * there are between three and seven board members
+  * board members are appointed by the board
+  * they serve a term of three years, and can be re-elected for a limited amount of times
+  * votes within the board are made with a simple majority, apart from changes to the mutable part of the statutes which require unanimity.
 
-All regulations are in English, the original <a class="reference external" href="/legal/foundingStatutes">statutes</a> are in Dutch. If
-you are linguistically challenged when it comes to understanding the
-Dutch legal frasing, and have any questions with regards to the
-statutes, after checking the <a class="reference external" href="/faq">FAQ</a> just contact legalquestions@commonsconservancy.org.
+All regulations are in English, the original <a class="reference external" href="/legal/foundingStatutes">statutes</a> are in Dutch. If you are linguistically challenged when it comes to understanding the Dutch legal frasing, and have any questions with regards to the statutes, after checking the <a class="reference external" href="/faq">FAQ</a> just contact legalquestions@commonsconservancy.org.
