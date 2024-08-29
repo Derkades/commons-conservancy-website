@@ -1,0 +1,212 @@
+.fieldlist{ list-style-type: none; margin-left: 20%;}
+.bibliographic { font-weight: bold;}
+.bibliographicfielddata { text-align: right;}
+div.logo{ float: right; width: 20%; clear: right;}
+img.portrait { float: right; width: 30%; border-radius: 50%; clear: right;}
+div.biography { float: right; width: 30%; border-radius: 50%; clear: right;}
+div.callout { background-image: url(/images/banner/lighthouse-akh.jpeg); }
+
+enter {
+  width: 980px;
+  margin: 0 auto;
+}
+.body{
+  font-family: "roboto slab", serif;
+}
+.tx {
+  font-family: "roboto slab", serif;
+  font-size: 2em;
+  position: absolute;
+  top: 50%;
+  margin-top: -15px;
+  left: 0;
+  right: 0;
+  color: #fff;
+  text-align: center;
+}
+.parallax {
+  height: 6em;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 100% auto;
+  position: relative;
+}
+
+.admonition {
+  height: 6em;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 100% auto;
+  position: relative;
+}
+
+.admonition-title{
+  font-family: "roboto slab", serif;
+  font-size: 2em;
+  position: absolute;
+  top: 50%;
+  margin-top: -15px;
+  left: 0;
+  right: 0;
+  color: #fff;
+  text-align: center;
+}
+.admonition-the-commons-conservancy {
+  background-image: url("/img/train-dm.jpeg");
+}
+.parallax_image_first {
+  background-image: url("/img/train-dm.jpeg");
+}
+.parallax_image_second {
+  background-image: url("/img/paperplane-ww.jpeg");
+  height: 600px;
+}
+.ill {
+  border-radius: 5%;
+  margin: 0.5em;
+  float: right;
+
+};
+
+.bg-jar {
+  background-image: url("/images/banner/jars.jpeg");
+}
+
+
+
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+ul,ol {
+  padding: 0.7rem 0.5rem;
+}
+blockquote {
+  padding: 0 0.5rem;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+.bg-train {
+background-image: url("/images/banner/train-dm.jpeg");
+background-color:transparent;
+}
+
+.bg-paperplane {
+background-image: url("/images/banner/paperplane-ww.jpeg");
+background-color:transparent;
+}
+
+.bg-boardcircuit {
+background-image: url("/images/banner/boardcircuit.jpeg");
+background-color:transparent;
+background-size: cover;
+background-scale: 25%;
+}
+
+.bg-circuitboard {
+background-image: url("/images/banner/circuitboard.jpeg");
+background-color:transparent;
+background-size: cover;
+background-scale: 25%;
+}
+
+.bg-webdroplets {
+background-image: url("/images/banner/bg-webdroplets.jpeg");
+background-color:transparent;
+background-size: cover;
+background-scale: 25%;
+}
+
+.bg-mailbox {
+background-image: url("/images/banner/bg-mailbox.jpeg");
+background-color:transparent;
+background-size: cover;
+background-scale: 25%;
+}
+
+.bg-coins {
+background-image: url("/images/banner/bg-coins.jpeg");
+background-color:transparent;
+background-size: cover;
+}
+
+
+
+.bg-orange {
+background-color: #fb9400;
+background-image: url("/images/orange-bubbles.svg");
+}
+
+.bg-orange2 {
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(100%, transparent)),url("/images/orange-bubbles.svg"); /* Chrome,Safari4+ */
+background-image: -webkit-linear-gradient(top, transparent, transparent),url("/images/orange-bubbles.svg"); /* Chrome10+,Safari5.1+ */
+background-image:    -moz-linear-gradient(top, transparent, transparent),url("/images/orange-bubbles.svg"); /* FF3.6+ */
+background-image:     -ms-linear-gradient(top, transparent, transparent),url("/images/orange-bubbles.svg"); /* IE10+ */
+background-image:      -o-linear-gradient(top, transparent, transparent),url("/images/orange-bubbles.svg"); /* Opera 11.10+ */
+background-image:         linear-gradient(to bottom, transparent, transparent),url("/images/orange-bubbles.svg"); /* W3C */
+
+}
+
+#low { margin-top: auto; }
+
+footer {
+clear: both;
+}
+
+#logo {
+  height: 100%;
+}
