@@ -1,5 +1,6 @@
 +++
-title = 'About'
+title = 'About us'
+subtitle = 'A foundation with a twist of recursiveness'
 type = 'page'
 +++
 
