@@ -1,11 +1,13 @@
 +++
 title = 'eduMEET'
-subtitle = 'video conferencing platform'
-website = 'https://edumeet.org/'
-statutes = 'https://dracc.commonsconservancy.org/0041'
-donations = 'https://nlnet.nl/donating'
-source = 'https://github.com/edumeet/'
-image = 'edumeet.png'
+
+[params]
+    subtitle = 'video conferencing platform'
+    website = 'https://edumeet.org/'
+    statutes = 'https://dracc.commonsconservancy.org/0041'
+    donations = 'https://nlnet.nl/donating'
+    source = 'https://github.com/edumeet/'
+    image = 'edumeet.png'
 +++
 
 eduMEET is a free and Open Source video conferencing platform, based on WebRTC technology, developed by and for the Research and Education community. It is easy to use, highly focused on security and privacy, and tailored for the needs of NRENs, schools, colleges, universities, research institutions, performing arts organisations.

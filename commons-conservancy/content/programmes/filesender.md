@@ -1,11 +1,13 @@
 +++
 title = 'FileSender'
-subtitle = 'Simple & Secure Large File Transfer'
-website = 'http://filesender.org/'
-statutes = 'https://dracc.commonsconservancy.org/0017'
-donations = 'https://nlnet.nl/donating'
-source = 'https://github.com/filesender/filesender/'
-image = 'filesender.jpeg'
+
+[params]
+    subtitle = 'Simple & Secure Large File Transfer'
+    website = 'http://filesender.org/'
+    statutes = 'https://dracc.commonsconservancy.org/0017'
+    donations = 'https://nlnet.nl/donating'
+    source = 'https://github.com/filesender/filesender/'
+    image = 'filesender.jpeg'
 +++
 
 FileSender is a (self-)hosted service that allows people to securely share large files with anyone. It works through your web browser and you can send a file to anyone with a mail address. FileSender was originally created with the needs of scientists and researchers in mind, which means that it scale to extreme file sizes.
