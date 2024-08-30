@@ -1,3 +1,13 @@
 {{ define "main" }}
+    <p>
+        <em>{{ .Params.subtitle }}</em>
+        <a href="{{ .Params.website }}">Website</a>
+        <a href="{{ .Params.statutes }}">Statutes</a>
+        <a href="{{ .Params.donations }}">Donations</a>
+        <a href="{{ .Params.source }}">Source</a>
+    </p>
+
+    <img src="/img/programmes/{{ .Params.image }}" alt="Background image for programme {{ .Title }}" width="400">
+
     {{ .Content }}
 {{ end }}
