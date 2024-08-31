@@ -2,7 +2,7 @@
 title = 'eduMEET'
 
 [params]
-    subtitle = 'video conferencing platform'
+    subtitle = 'Video conferencing platform'
     website = 'https://edumeet.org/'
     statutes = 'https://dracc.commonsconservancy.org/0041'
     donations = 'https://nlnet.nl/donating'
