@@ -136,8 +136,8 @@ blockquote {
   font-size: inherit;
 }
 
-footer.page-footer {
-  margin: 0;
+footer {
+  margin-top: 10px;
 }
 
 .bg-train {
@@ -202,10 +202,6 @@ background-image:         linear-gradient(to bottom, transparent, transparent),u
 }
 
 #low { margin-top: auto; }
-
-footer {
-clear: both;
-}
 
 #logo {
   height: 100%;
