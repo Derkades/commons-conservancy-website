@@ -1,7 +1,8 @@
 +++
 title = 'Frequently Asked Questions'
-subtitle = 'as well as infrequently asked questions we think you are likely to want to know the answer to '
-type = 'page'
+
+[params]
+    subtitle = 'as well as infrequently asked questions we think you are likely to want to know the answer to '
 +++
 
 ## Q: Where does the name come from?

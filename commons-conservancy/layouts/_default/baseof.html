@@ -44,7 +44,7 @@
                     <div class="columns is-vcentered">
                         <div class="column">
                             <p class="title is-1 strong">{{ block "title" . }}{{ end }}</p>
-                            <!-- TODO <p class="subtitle"></p>  -->
+                            <p style="font-size: 1.3em">{{ block "subtitle" . }}{{ .Params.subtitle }}{{ end }}</p>
                         </div>
                         <div class="">
                             <img src="/logo-rotated.svg" id="logo ornament" style="float: right;">

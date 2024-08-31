@@ -1,7 +1,3 @@
-{{ define "title"}}
-    Programmes
-{{ end }}
-
 {{ define "main" }}
     {{ range .Pages }}
         <h2><a href="{{ .File.BaseFileName }}">{{ .Title }}</a></h2>

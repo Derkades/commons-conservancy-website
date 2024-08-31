@@ -1,7 +1,8 @@
 +++
 title = 'Organisation'
-subtitle = 'The guts of [The Commons Conservancy]'
-type = 'page'
+
+[params]
+    subtitle = 'The guts of [The Commons Conservancy]'
 +++
 
 The founding meeting of The Commons Conservancy took place on October 3rd 2016. The Commons Consernancy is registered at the Netherlands [Chamber of Commerce](https://kvk.nl) nr. 67115918.  It is a "stichting" according to the Netherlands law. The legal seat of residence is Science Park 400, 1098 XH Amsterdam, The Netherlands. [Contact us](/contact).

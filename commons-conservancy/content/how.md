@@ -1,7 +1,8 @@
 +++
 title = 'How to set up a new Programme'
-subtitle = 'Our basic how-to for aspiring Programmes '
-type = 'page'
+
+[params]
+    subtitle = 'Our basic how-to for aspiring Programmes '
 +++
 
 ## How to join [The Commons Conservancy]

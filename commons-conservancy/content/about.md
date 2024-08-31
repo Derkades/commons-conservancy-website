@@ -1,7 +1,8 @@
 +++
 title = 'About us'
-subtitle = 'A foundation with a twist of recursiveness'
-type = 'page'
+
+[params]
+    subtitle = 'A foundation with a twist of recursiveness'
 +++
 
 [The Commons Conservancy] is a foundation ("stichting") established under the law of The Netherlands on October 21st 2016. It has a rather unusual legal infrastructure, which it governs through an intricate system of regulations. By law the whole system is bootstrapped through its [statutes](/legal/foundingStatutes), which are more or less standard legal boilerplate for an organisation of its type, with the noted exception of the following:
