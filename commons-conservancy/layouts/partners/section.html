@@ -1,0 +1,9 @@
+{{ define "main" }}
+    {{ .Content }}
+
+    {{ range .Pages }}
+        <h2><a href="{{ .File.BaseFileName }}">{{ .Title }}</a></h2>
+        <img src="/img/partners/{{ .Params.image }}" alt="image for partner {{ .Title }}" width="300">
+        {{ .Content }}
+    {{ end }}
+{{ end }}
