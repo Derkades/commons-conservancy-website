@@ -39,15 +39,17 @@
         </nav>
 
         <div class="row">
-            <section class="hero is-primary"><div class="hero-body">
-                <div class="container">
-                    <div class="columns is-vcentered">
-                        <div class="column">
-                            <p class="title is-1 strong">{{ block "title" . }}{{ end }}</p>
-                            <p style="font-size: 1.3em">{{ block "subtitle" . }}{{ .Params.subtitle }}{{ end }}</p>
-                        </div>
-                        <div class="">
-                            <img src="/logo-rotated.svg" id="logo ornament" style="float: right;">
+            <section class="hero is-primary">
+                <div class="hero-body">
+                    <div class="container">
+                        <div class="columns is-vcentered">
+                            <div class="column">
+                                <p class="title is-1 strong">{{ block "title" . }}{{ end }}</p>
+                                <p style="font-size: 1.3em">{{ block "subtitle" . }}{{ .Params.subtitle }}{{ end }}</p>
+                            </div>
+                            <div class="">
+                                <img src="/logo-rotated.svg" id="logo ornament" style="float: right;">
+                            </div>
                         </div>
                     </div>
                 </div>
