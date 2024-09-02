@@ -2,7 +2,7 @@
     {{ .Content }}
 
     <table class="table table striped">
-        {{ range .Pages }}
+        {{ range sort .Pages ".File.BaseFileName" }}
             <tr>
                 <td>
                     <img class="item-icon" src="/img/cc.svg">
