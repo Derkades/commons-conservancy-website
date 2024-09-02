@@ -1,0 +1,6 @@
++++
+title = ''
+
+[params]
+    image = ''
++++
