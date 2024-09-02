@@ -8,24 +8,22 @@ title = 'Frequently Asked Questions'
 ## Q: Where does the name come from?
 The name of our foundation consists of the combination of two important concepts: the notion of  a  technological  'Commons'  (in the  form of  the  Free/Open Source  software ecosystem) and an institutional arrangement to preserve and utilize those Commons in the best way possible — a "Conservancy".
 
-<blockquote>
-<img alt="A computer with an 'under contruction' sign, symbolising the fact that technology is never done and there is a lot of work which needs to be don" class="ill align-right" src="/img/underconstruction.jpeg" style="width: 20%;">
+> ![A computer with an 'under contruction' sign, symbolising the fact that technology is never done and there is a lot of work which needs to be done](/img/underconstruction.jpeg)
+> {.img-faq}
+>
+> A well-known definition by Oakerson (1992) defines the _Commons_ as "a resource or facility shared by a community of producers or consumers".  The collective responsibility for scarce resources does not lie with any individual but with all. When there is not enough incentive at  the level  of  the individual  to act  in the common interest, this is often reffered  to  as "a tragedy  of the commons". Technology can be like that: there is no direct link between the broad usage of free and open source technology, and the means sometimes required to maintain and further develop this technology.
 
-A well-known definition by Oakerson (1992) defines the <em>Commons</em> as "a resource or facility shared by a community of producers or consumers".  The collective responsibility for scarce resources does not lie with any individual but with all. When there is not enough incentive at  the level  of  the individual  to act  in the common interest, this is often reffered  to  as "a tragedy  of the commons". Technology can be like that: there is no direct link between the broad usage of free and open source technology, and the means sometimes required to maintain and further develop this technology.
-</blockquote>
-
-<blockquote>
-<img alt="A picture with jars, symbolising the ancient act of conservation" class="ill align-right" src="/img/jars.jpeg" style="width: 20%;">
-
-The current word <em>conservancy</em> stems from the Latin word <em>conservare</em>, which literally means "to preserve". It first appeared in the 17th  century, sometimes also spelled as "conservacy". In the context of environment protection,  conservancies  are the organisations responsible for maintaining large nature reserves. They ensure that unique ecologies do not disappear. Technology is a vital and vivid part of our culture, and we want to contribute to a more diverse ecosystem.
-
-</blockquote>
+> ![A picture with jars, symbolising the ancient act of conservation](/img/jars.jpeg)
+> {.img-faq}
+>
+> The current word _conservancy_ stems from the Latin word _conservare_, which literally means "to preserve". It first appeared in the 17th  century, sometimes also spelled as "conservacy". In the context of environment protection,  conservancies  are the organisations responsible for maintaining large nature reserves. They ensure that unique ecologies do not disappear. Technology is a vital and vivid part of our culture, and we want to contribute to a more diverse ecosystem.
 
 ## Q: Why do you talk of Programmes instead of projects
 A project is an effort that in our opinion is almost by definition finite, and is limited in scope. A Programme -- at least in the context of [The Commons Conservancy] -- is a more coherent and mature long term effort whose lifetime is (in principle) open-ended. Inside a Programme there can of course be many projects happening simultaneously.
 
 ## Q: Why don't you handle money?
-<img alt="A picture with a large amount of coins" class="ill align-right" src="/img/coins.jpeg" style="width: 20%;">
+![A picture with a large amount of coins](/img/coins.jpeg)
+{.img-faq}
 
 [The Commons Conservancy] is a zero-budget organisation by design. We have no money, and no interest in acquiring it as an organisation. We have no staff, no annual budget. Our [statutes](/legal/foundingStatutes) actually forbid us to even open a bank account.  We think there is enough value for our organisation to add without also handling the monetary dimension of work happening within Programmes.
 
@@ -36,7 +34,8 @@ We strongly believe in separation of concerns, and designed [The Commons Conserv
 The lack of a financial dimension to our operations does not mean that our Programmes are denied any options to raise funds for their work. In fact the opposite is true: we are convinced that communities are actually better off because the financial backend is not pinned down to a single organisation. This leaves Programmes free to work with multipe backends in parallel, best tailored to the specific situations of fundraising.
 
 ## Q: What will happen should [The Commons Conservancy] ever close down?
-<img alt="A picture with astronauts waving farewell" class="ill align-left" src="/img/farewell.jpeg" style="width: 10%;">
+![A picture with astronauts waving farewell](/img/farewell.jpeg)
+{.img-faq}
 
 We don't like surprises, and try to be as predictable as we can.  The statutes of [The Commons Conservancy] force the Board of Directors of the foundation to publically announce any intention to close down the foundation at least twelve months in advance. Even after that, the foundation will remain in place after its dissolution to make sure everything is taken care of. That should leave you with ample time to find a proper solution.
 
