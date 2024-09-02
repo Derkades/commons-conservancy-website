@@ -11,9 +11,9 @@ title = 'About us'
 
  * A regulation only enters into effect when it is published as part of the [DRACC](http:/dracc.commonsconservancy.org/) series, which stands for "Directives and Regulatory Archive of The Commons Conservancy". This is a very comprehensive system that is designed to deal with many situations that arise during the lifecycle of Programmes. It would not make sense to repeat the information here which is contained in the introductory DRACC (aptly called "[Introduction to the DRACC Series](https:/dracc.commonsconservancy.org/0000)"), but it is important to know that once published, regulations cannot be changed but can (although only in some cases) be superseded.
 
- * the way Programmes and other bodies within [The Commons Conservancy] are governed, is <strong>authoritatively</strong> described by regulations as well. This creates a recursive mechanism that allows a lot of flexibility when needed, whilst the mechanism of making certain parts [immutable](https://dracc.commonsconservancy.org/0000) adds the necessary rigidity.
+ * the way Programmes and other bodies within [The Commons Conservancy] are governed, is **authoritatively** described by regulations as well. This creates a recursive mechanism that allows a lot of flexibility when needed, whilst the mechanism of making certain parts [immutable](https://dracc.commonsconservancy.org/0000) adds the necessary rigidity.
 
- * the above provisions are themselves an <strong>immutable</strong> part of the [statutes](/legal/foundingStatutes) of [The Commons Conservancy] and cannot ever be changed.
+ * the above provisions are themselves an **immutable** part of the [statutes](/legal/foundingStatutes) of [The Commons Conservancy] and cannot ever be changed.
 
  * (by design) the foundation [cannot hold money](/legal/foundingStatutes/#bestuur-taak-en-bevoegdheden), and is even statutorily [forbidden to create a bank account](/legal/foundingStatutes/#bestuur-taak-en-bevoegdheden) (which means there is no position of chancellor in the [Board](/organisation) of the foundation (there is no need for such a position).
 

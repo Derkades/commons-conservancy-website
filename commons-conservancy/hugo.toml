@@ -2,10 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'The Commons Conservancy'
 
-# Allow HTML in md files
-[markup.goldmark.renderer]
-    unsafe = true
-
 # https://gohugo.io/content-management/markdown-attributes/
 [markup.goldmark.parser]
     wrapStandAloneImageWithinParagraph = false
