@@ -1,0 +1,29 @@
+{{ define "main" }}
+    <dl class="field-list simple">
+        <dt>Title</dt>
+        <dd>{{ .Title }}</dt>
+
+        <dt>DRACC</dt>
+        <dd>{{ .Params.dracc }}</dd>
+
+        <dt>Category</dt>
+        <dd>{{ .Params.category }}</dd>
+
+        <dt>Scope</dt>
+        <dd>{{ .Params.scope }}</dd>
+
+        <dt>Authors</dt>
+        <dd>{{ .Params.authors }}</dd>
+
+        <dt>Date</dt>
+        <dd>{{ .Params.date }}</dt>
+
+        <dt>Copyright</dt>
+        <dd>{{ .Params.copyright }}</dd>
+    </dl>
+
+    <p><em>This document is part of the DRACC series. You can reuse it under a
+        "Creative Commons Attribution 4.0 International" license.</em></p>
+
+    {{ .Content }}
+{{ end }}

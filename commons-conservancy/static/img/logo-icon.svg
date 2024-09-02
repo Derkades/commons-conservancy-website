@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="viewport" content="width=device-width" /><title>https://dracc.commonsconservancy.org/images/cc.svg</title><link rel="stylesheet" type="text/css" href="resource://content-accessible/viewsource.css" /></head><body id="viewsource" class="highlight" style="tab-size: 4"><pre id="line1"><span></span><span class="pi">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;</span><span>
+<span id="line2"></span></span><span>&lt;<span class="start-tag">svg</span>
+<span id="line3"></span>   <span class="attribute-name">xmlns:dc</span>="<a class="attribute-value">http://purl.org/dc/elements/1.1/</a>"
+<span id="line4"></span>   <span class="attribute-name">xmlns:cc</span>="<a class="attribute-value">http://creativecommons.org/ns#</a>"
+<span id="line5"></span>   <span class="attribute-name">xmlns:rdf</span>="<a class="attribute-value">http://www.w3.org/1999/02/22-rdf-syntax-ns#</a>"
+<span id="line6"></span>   <span class="attribute-name">xmlns:svg</span>="<a class="attribute-value">http://www.w3.org/2000/svg</a>"
+<span id="line7"></span>   <span class="attribute-name">xmlns</span>="<a class="attribute-value">http://www.w3.org/2000/svg</a>"
+<span id="line8"></span>   <span class="attribute-name">xmlns:sodipodi</span>="<a class="attribute-value">http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd</a>"
+<span id="line9"></span>   <span class="attribute-name">xmlns:inkscape</span>="<a class="attribute-value">http://www.inkscape.org/namespaces/inkscape</a>"
+<span id="line10"></span>   <span class="attribute-name">version</span>="<a class="attribute-value">1.1</a>"
+<span id="line11"></span>   <span class="attribute-name">id</span>="<a class="attribute-value">svg7062</a>"
+<span id="line12"></span>   <span class="attribute-name">viewBox</span>="<a class="attribute-value">0 0 27.521392 17.647692</a>"
+<span id="line13"></span>   <span class="attribute-name">height</span>="<a class="attribute-value">4.9805708mm</a>"
+<span id="line14"></span>   <span class="attribute-name">width</span>="<a class="attribute-value">7.7671485mm</a>"
+<span id="line15"></span>   <span class="attribute-name">inkscape:version</span>="<a class="attribute-value">0.92.0 r15299</a>"
+<span id="line16"></span>   <span class="attribute-name">sodipodi:docname</span>="<a class="attribute-value">cc.svg</a>"&gt;</span><span>
+<span id="line17"></span>  </span><span>&lt;<span class="start-tag">sodipodi:namedview</span>
+<span id="line18"></span>     <span class="attribute-name">pagecolor</span>="<a class="attribute-value">#ffffff</a>"
+<span id="line19"></span>     <span class="attribute-name">bordercolor</span>="<a class="attribute-value">#666666</a>"
+<span id="line20"></span>     <span class="attribute-name">borderopacity</span>="<a class="attribute-value">1</a>"
+<span id="line21"></span>     <span class="attribute-name">objecttolerance</span>="<a class="attribute-value">10</a>"
+<span id="line22"></span>     <span class="attribute-name">gridtolerance</span>="<a class="attribute-value">10</a>"
+<span id="line23"></span>     <span class="attribute-name">guidetolerance</span>="<a class="attribute-value">10</a>"
+<span id="line24"></span>     <span class="attribute-name">inkscape:pageopacity</span>="<a class="attribute-value">0</a>"
+<span id="line25"></span>     <span class="attribute-name">inkscape:pageshadow</span>="<a class="attribute-value">2</a>"
+<span id="line26"></span>     <span class="attribute-name">inkscape:window-width</span>="<a class="attribute-value">1366</a>"
+<span id="line27"></span>     <span class="attribute-name">inkscape:window-height</span>="<a class="attribute-value">738</a>"
+<span id="line28"></span>     <span class="attribute-name">id</span>="<a class="attribute-value">namedview4338</a>"
+<span id="line29"></span>     <span class="attribute-name">showgrid</span>="<a class="attribute-value">false</a>"
+<span id="line30"></span>     <span class="attribute-name">inkscape:zoom</span>="<a class="attribute-value">1.0651048</a>"
+<span id="line31"></span>     <span class="attribute-name">inkscape:cx</span>="<a class="attribute-value">304.47479</a>"
+<span id="line32"></span>     <span class="attribute-name">inkscape:cy</span>="<a class="attribute-value">-203.4404</a>"
+<span id="line33"></span>     <span class="attribute-name">inkscape:window-x</span>="<a class="attribute-value">0</a>"
+<span id="line34"></span>     <span class="attribute-name">inkscape:window-y</span>="<a class="attribute-value">0</a>"
+<span id="line35"></span>     <span class="attribute-name">inkscape:window-maximized</span>="<a class="attribute-value">1</a>"
+<span id="line36"></span>     <span class="attribute-name">inkscape:current-layer</span>="<a class="attribute-value">g6990</a>"
+<span id="line37"></span>     <span class="attribute-name">fit-margin-top</span>="<a class="attribute-value">0.8</a>"
+<span id="line38"></span>     <span class="attribute-name">fit-margin-left</span>="<a class="attribute-value">0.8</a>"
+<span id="line39"></span>     <span class="attribute-name">fit-margin-right</span>="<a class="attribute-value">0.8</a>"
+<span id="line40"></span>     <span class="attribute-name">fit-margin-bottom</span>="<a class="attribute-value">0.8</a>" <span>/</span>&gt;</span><span>
+<span id="line41"></span>  </span><span>&lt;<span class="start-tag">defs</span>
+<span id="line42"></span>     <span class="attribute-name">id</span>="<a class="attribute-value">defs7064</a>" <span>/</span>&gt;</span><span>
+<span id="line43"></span>  </span><span>&lt;<span class="start-tag">metadata</span>
+<span id="line44"></span>     <span class="attribute-name">id</span>="<a class="attribute-value">metadata7067</a>"&gt;</span><span>
+<span id="line45"></span>    </span><span>&lt;<span class="start-tag">rdf:RDF</span>&gt;</span><span>
+<span id="line46"></span>      </span><span>&lt;<span class="start-tag">cc:Work</span>
+<span id="line47"></span>         <span class="attribute-name">rdf:about</span>="<a class="attribute-value"></a>"&gt;</span><span>
+<span id="line48"></span>        </span><span>&lt;<span class="start-tag">dc:format</span>&gt;</span><span>image/svg+xml</span><span>&lt;/<span class="end-tag">dc:format</span>&gt;</span><span>
+<span id="line49"></span>        </span><span>&lt;<span class="start-tag">dc:type</span>
+<span id="line50"></span>           <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">http://purl.org/dc/dcmitype/StillImage</a>" <span>/</span>&gt;</span><span>
+<span id="line51"></span>        </span><span>&lt;<span class="start-tag">dc:title</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">dc:title</span>&gt;</span><span>
+<span id="line52"></span>      </span><span>&lt;/<span class="end-tag">cc:Work</span>&gt;</span><span>
+<span id="line53"></span>    </span><span>&lt;/<span class="end-tag">rdf:RDF</span>&gt;</span><span>
+<span id="line54"></span>  </span><span>&lt;/<span class="end-tag">metadata</span>&gt;</span><span>
+<span id="line55"></span>  </span><span>&lt;<span class="start-tag">g</span>
+<span id="line56"></span>     <span class="attribute-name">transform</span>="<a class="attribute-value">translate(205.66305,-142.41325)</a>"
+<span id="line57"></span>     <span class="attribute-name">id</span>="<a class="attribute-value">layer1</a>"&gt;</span><span>
+<span id="line58"></span>    </span><span>&lt;<span class="start-tag">g</span>
+<span id="line59"></span>       <span class="attribute-name">transform</span>="<a class="attribute-value">translate(-3109.1006,-6021.9621)</a>"
+<span id="line60"></span>       <span class="attribute-name">id</span>="<a class="attribute-value">g6990</a>"&gt;</span><span>
+<span id="line61"></span>      </span><span>&lt;<span class="start-tag">path</span>
+<span id="line62"></span>         <span class="attribute-name">style</span>="<a class="attribute-value">font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:357.5239563px;line-height:125%;font-family:Sigmar;-inkscape-font-specification:Sigmar;letter-spacing:0px;word-spacing:0px;fill:#87cdde;fill-opacity:1;stroke:none;stroke-width:0.06696655px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1</a>"
+<span id="line63"></span>         <span class="attribute-name">d</span>="<a class="attribute-value">m 2914.9698,6167.21 c -1.1924,0 -2.3224,0.2182 -3.3901,0.6546 -1.0678,0.4365 -1.9914,1.0367 -2.7708,1.8004 -0.7793,0.7638 -1.3989,1.6873 -1.8587,2.7706 -0.452,1.0834 -0.678,2.2447 -0.678,3.4839 0,1.1538 0.1961,2.2434 0.588,3.2689 h 0.9856 c -0.425,-0.9956 -0.6385,-2.085 -0.6385,-3.2689 0,-1.1457 0.1989,-2.2095 0.5963,-3.1915 0.4053,-0.982 0.9547,-1.8082 1.6483,-2.4785 0.7014,-0.678 1.5276,-1.2042 2.4784,-1.5782 0.9509,-0.3819 1.964,-0.5728 3.0395,-0.5728 1.4341,0 2.7396,0.3312 3.9164,0.9936 1.1769,0.6547 2.0965,1.5587 2.759,2.7122 l 0.9352,-0.2455 c -0.7638,-1.3405 -1.8198,-2.4004 -3.1681,-3.1797 -1.3405,-0.7794 -2.8214,-1.1691 -4.4425,-1.1691 z</a>"
+<span id="line64"></span>         <span class="attribute-name">id</span>="<a class="attribute-value">leftC</a>"
+<span id="line65"></span>         <span class="attribute-name">inkscape:connector-curvature</span>="<a class="attribute-value">0</a>" <span>/</span>&gt;</span><span>
+<span id="line66"></span>      </span><span>&lt;<span class="start-tag">path</span>
+<span id="line67"></span>         <span class="attribute-name">style</span>="<a class="attribute-value">font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:357.5239563px;line-height:125%;font-family:Sigmar;-inkscape-font-specification:Sigmar;letter-spacing:0px;word-spacing:0px;fill:#00aad4;fill-opacity:1;stroke:none;stroke-width:0.06696655px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1</a>"
+<span id="line68"></span>         <span class="attribute-name">d</span>="<a class="attribute-value">m 2920.5138,6167.5013 c -1.1924,0 -2.3224,0.2182 -3.3902,0.6546 -1.0677,0.4365 -1.9913,1.0366 -2.7707,1.8004 -0.7794,0.7638 -1.3989,1.6873 -1.8587,2.7706 -0.4521,1.0833 -0.6781,2.2447 -0.6781,3.4838 0,1.0454 0.1615,2.0378 0.4832,2.9777 h 0.9731 c -0.3467,-0.9159 -0.5211,-1.9081 -0.5211,-2.9777 0,-1.1456 0.1988,-2.2095 0.5963,-3.1915 0.4053,-0.982 0.9546,-1.8081 1.6483,-2.4784 0.7014,-0.678 1.5276,-1.204 2.4784,-1.5781 0.9508,-0.3819 1.964,-0.5729 3.0395,-0.5729 1.434,0 2.7395,0.3312 3.9164,0.9936 1.1768,0.6547 2.0965,1.5588 2.7589,2.7123 l 0.9352,-0.2455 c -0.7638,-1.3405 -1.8198,-2.4005 -3.1681,-3.1799 -1.3405,-0.7793 -2.8213,-1.169 -4.4424,-1.169 z</a>"
+<span id="line69"></span>         <span class="attribute-name">id</span>="<a class="attribute-value">rightC</a>"
+<span id="line70"></span>         <span class="attribute-name">inkscape:connector-curvature</span>="<a class="attribute-value">0</a>" <span>/</span>&gt;</span><span>
+<span id="line71"></span>    </span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line72"></span>  </span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line73"></span></span><span>&lt;/<span class="end-tag">svg</span>&gt;</span><span>
+<span id="line74"></span></span></pre></body></html>

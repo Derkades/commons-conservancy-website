@@ -1,0 +1,18 @@
+{{ define "main" }}
+    {{ .Content }}
+
+    <table class="table table striped">
+        {{ range .Pages }}
+            <tr>
+                <td>
+                    <img class="item-icon" src="/img/cc.svg">
+                    {{ .Params.dracc }} — <a href="{{ .File.BaseFileName }}">{{ .Title }}</a>
+                </td>
+                <td>
+                    {{ .Params.authors }}
+                </td>
+            </tr>
+        {{ end }}
+    </table>
+
+{{ end }}
