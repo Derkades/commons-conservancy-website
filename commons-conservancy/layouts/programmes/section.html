@@ -1,6 +1,6 @@
 {{ define "main" }}
     {{ range .Pages }}
-        <h2><a href="{{ .File.BaseFileName }}">{{ .Title }}</a></h2>
+        <h2 id="{{ .File.BaseFileName }}"><a href="{{ .File.BaseFileName }}">{{ .Title }}</a></h2>
 
         <p>
             <em>{{ .Params.subtitle }}</em>
@@ -9,9 +9,5 @@
             <a href="{{ .Params.donations }}">Donations</a>
             <a href="{{ .Params.source }}">Source</a>
         </p>
-
-        <!-- <img src="/img/programmes/{{ .Params.image }}" alt="Background image for programme {{ .Title }}" width="400"> -->
-
-        <!-- {{ .Content }} -->
     {{ end }}
 {{ end }}
