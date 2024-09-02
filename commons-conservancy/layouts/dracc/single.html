@@ -6,6 +6,11 @@
         <dt>DRACC</dt>
         <dd>{{ .File.BaseFileName }}</dd>
 
+        {{ if .Params.aliases }}
+            <dt>Aliases</dt>
+            <dd>{{ .Params.aliases }}</dd>
+        {{ end }}
+
         <dt>Category</dt>
         <dd>{{ .Params.category }}</dd>
 
