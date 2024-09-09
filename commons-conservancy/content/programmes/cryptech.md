@@ -4,7 +4,7 @@ title = 'Cryptech'
 [params]
     subtitle = 'Making the internet a little safer'
     website = 'https://cryptech.is/'
-    statutes = 'https://dracc.commonsconservancy.org/0023'
+    statutes = '/dracc/0023'
     donations = 'https://nlnet.nl/project/cryptech'
     source = 'https://trac.cryptech.is/wiki/GitRepositories'
     image = 'cryptech.jpeg'

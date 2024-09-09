@@ -4,7 +4,7 @@ title = 'IdentityPython'
 [params]
     subtitle = "Knock, knock - who's there?"
     website = 'https://idpy.org/'
-    statutes = 'https://dracc.commonsconservancy.org/0024'
+    statutes = '/dracc/0024'
     donations = 'https://nlnet.nl/project/idpy'
     source = 'https://github.com/IdentityPython'
     image = 'idpy.jpeg'

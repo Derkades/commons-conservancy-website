@@ -4,7 +4,7 @@ title = 'Internet of Coins'
 [params]
     subtitle = 'Blockchain wizardry'
     website = 'https://internetofcoins.org/'
-    statutes = 'https://dracc.commonsconservancy.org/0019'
+    statutes = '/dracc/0019'
     donations = 'https://nlnet.nl/donating'
     source = 'https://github.com/internetofcoins'
     image = 'internet-of-coins.jpeg'

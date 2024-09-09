@@ -4,7 +4,7 @@ title = 'Tauri'
 [params]
     subtitle = 'Composable framework for platform-specific apps using web technology'
     website = 'https://tauri.studio/'
-    statutes = 'https://dracc.commonsconservancy.org/0035'
+    statutes = '/dracc/0035'
     donations = 'https://opencollective.com/tauri'
     source = ''
     image = 'tauri.jpeg'

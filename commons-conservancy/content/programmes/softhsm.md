@@ -4,7 +4,7 @@ title = 'SoftHSM'
 [params]
     subtitle = 'A portable cryptographic store'
     website = 'https://softhsm.org/'
-    statutes = 'https://dracc.commonsconservancy.org/0028'
+    statutes = '/dracc/0028'
     donations = 'https://nlnet.nl/project/softhsm'
     source = 'https://github.com/opendnssec/SoftHSMv2'
     image = 'softhsm.jpeg'

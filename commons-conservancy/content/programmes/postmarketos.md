@@ -4,7 +4,7 @@ title = 'postmarketOS'
 [params]
     subtitle = 'A real Linux distribution for phones'
     website = 'https://postmarketos.org/'
-    statutes = 'https://dracc.commonsconservancy.org/0031'
+    statutes = '/dracc/0031'
     donations = 'https://nlnet.nl/project/postmarketOS'
     source = 'https://gitlab.com/postmarketOS'
     image = 'postmarketos.jpeg'

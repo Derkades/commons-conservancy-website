@@ -4,7 +4,7 @@ title = 'Corteza'
 [params]
     subtitle = 'The Digital Work Platform for Humanity'
     website = 'https://cortezaproject.org/'
-    statutes = 'https://dracc.commonsconservancy.org/0027'
+    statutes = '/dracc/0027'
     donations = ''
     source = 'https://github.com/cortezaproject'
     image = 'corteza.jpeg'

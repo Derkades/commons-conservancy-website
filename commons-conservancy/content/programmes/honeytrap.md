@@ -4,7 +4,7 @@ title = 'Honeytrap'
 [params]
     subtitle = 'Easily view, setup and record your own honeypot sessions'
     website = 'https://honeytrap.io/'
-    statutes = 'https://dracc.commonsconservancy.org/0022'
+    statutes = '/dracc/0022'
     donations = 'https://nlnet.nl/project/honeytrap'
     source = 'https://github.com/honeytrap/honeytrap'
     image = 'honeytrap.jpeg'

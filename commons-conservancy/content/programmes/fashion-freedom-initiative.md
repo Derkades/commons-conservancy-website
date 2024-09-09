@@ -4,7 +4,7 @@ title = 'Fashion Freedom Initiative'
 [params]
     subtitle = 'Open up the fashion industry'
     website = 'https://fashionfreedom.eu/'
-    statutes = 'https://dracc.commonsconservancy.org/0021'
+    statutes = '/dracc/0021'
     donations = 'https://nlnet.nl/project/fashionfreedom'
     source = 'https://github.com/FashionFreedom'
     image = 'fashion-freedom.jpeg'

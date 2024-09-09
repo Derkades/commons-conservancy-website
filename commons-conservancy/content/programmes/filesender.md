@@ -4,7 +4,7 @@ title = 'FileSender'
 [params]
     subtitle = 'Simple & Secure Large File Transfer'
     website = 'http://filesender.org/'
-    statutes = 'https://dracc.commonsconservancy.org/0017'
+    statutes = '/dracc/0017'
     donations = 'https://nlnet.nl/donating'
     source = 'https://github.com/filesender/filesender/'
     image = 'filesender.jpeg'

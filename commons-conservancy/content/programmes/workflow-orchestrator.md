@@ -4,7 +4,7 @@ title = 'Workflow Orchestrator'
 [params]
     subtitle = 'An engine for better processes'
     website = 'https://workfloworchestrator.org/'
-    statutes = 'https://dracc.commonsconservancy.org/0029'
+    statutes = '/dracc/0029'
     donations = ''
     source = 'https://github.com/workfloworchestrator'
     image = 'workfloworchestrator.jpeg'

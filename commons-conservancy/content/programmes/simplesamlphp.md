@@ -4,7 +4,7 @@ title = 'simpleSAMLphp'
 [params]
     subtitle = 'Single Sign On made simple'
     website = 'https://simplesamlphp.org/'
-    statutes = 'https://dracc.commonsconservancy.org/0034'
+    statutes = '/dracc/0034'
     donations = ''
     source = 'https://github.com/simplesamlphp/simplesamlphp'
     image = 'simplesamlphp.jpeg'

@@ -4,7 +4,7 @@ title = "eduVPN / Let's Connect!"
 [params]
     subtitle = 'Safer connections for everyone'
     website = 'https://eduvpn.org/'
-    statutes = 'https://dracc.commonsconservancy.org/0018'
+    statutes = '/dracc/0018'
     donations = 'https://nlnet.nl/donating'
     source = 'https://github.com/eduVPN/'
     image = 'eduvpn.jpeg'

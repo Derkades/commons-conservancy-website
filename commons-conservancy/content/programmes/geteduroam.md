@@ -4,7 +4,7 @@ title = 'getEduroam'
 [params]
     subtitle = 'Simplify the process of connecting to eduroam for end users'
     website = 'https://geteduroam.app/'
-    statutes = 'https://dracc.commonsconservancy.org/0033'
+    statutes = '/dracc/0033'
     donations = ''
     source = 'https://github.com/geteduroam'
     image = 'geteduroam.jpeg'

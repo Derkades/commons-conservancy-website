@@ -4,7 +4,7 @@ title = 'F-Droid'
 [params]
     subtitle = 'Software for distributing Android applications'
     website = 'https://f-droid.org/'
-    statutes = 'https://dracc.commonsconservancy.org/0039'
+    statutes = '/dracc/0039'
     donations = 'https://opencollective.com/F-Droid/'
     source = ''
     image = 'f-droid.jpeg'

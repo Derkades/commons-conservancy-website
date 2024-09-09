@@ -4,7 +4,7 @@ title = 'Internet-Wide'
 [params]
     subtitle = 'Rewriting the fragile future of the internet'
     website = 'http://internetwide.org/'
-    statutes = 'https://dracc.commonsconservancy.org/0028'
+    statutes = '/dracc/0028'
     donations = 'https://nlnet.nl/project/arpa2'
     source = 'https://gitlab.com/arpa2/'
     image = 'softhsm.jpeg'
