@@ -1,10 +1,12 @@
 # Commons Conservancy
 
-## Building
+## Deployment
 
-Install Hugo, at least v0.123.0. Static binaries are available [here](https://github.com/gohugoio/hugo/releases).
+1. Install Hugo, at least v0.123.0. Static binaries are available [here](https://github.com/gohugoio/hugo/releases), if your distribution does not include the required version.
+2. Run `hugo` in `./commons-conservancy`.  A HTML tree is built and placed in `public/`.
+3. Install a web server of choice and configure it to serve this directory
 
-Run `hugo` in the `commons-conservancy` directory. A HTML tree is built and placed in `public/`
+The example Dockerfile in this repository can be used as a reference.
 
 ## Development server
 
