@@ -1,4 +1,8 @@
 {{ define "main" }}
+    {{ if .Params.superseded_by }}
+        <strong>This document has been deprecated, it is superseded by <a href="../{{.Params.superseded_by }}">DRACC {{.Params.superseded_by }}</a>.</strong>
+    {{ end }}
+
     <dl class="field-list simple">
         <dt>Title</dt>
         <dd>{{ .Title }}</dt>
